@@ -2,7 +2,7 @@
   "name": "react-jwt-auth",
   "version": "0.0.0-development",
   "description": "Simple JWT auth functions for any react app",
-  "main": "index.tsx",
+  "main": "src/index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
@@ -21,6 +21,10 @@
     "url": "https://github.com/amjed-ali-k/react-jwt-auth/issues"
   },
   "homepage": "https://github.com/amjed-ali-k/react-jwt-auth#readme",
+  "dependencies": {
+    "react": ">=17.0.2",
+    "react-router-dom": ">=6.2.1"
+  },
   "devDependencies": {
     "semantic-release": "^19.0.2"
   }
