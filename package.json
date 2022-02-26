@@ -1,6 +1,6 @@
 {
   "name": "@amjed-ali-k/react-jwt-auth",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "Simple JWT auth functions for any react app",
   "main": "src/index.tsx",
   "scripts": {
