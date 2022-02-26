@@ -1,0 +1,27 @@
+{
+  "name": "react-jwt-auth",
+  "version": "0.0.0-development",
+  "description": "Simple JWT auth functions for any react app",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amjed-ali-k/react-jwt-auth.git"
+  },
+  "keywords": [
+    "react-auth",
+    "jwt"
+  ],
+  "author": "amjed-ali-k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amjed-ali-k/react-jwt-auth/issues"
+  },
+  "homepage": "https://github.com/amjed-ali-k/react-jwt-auth#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}
